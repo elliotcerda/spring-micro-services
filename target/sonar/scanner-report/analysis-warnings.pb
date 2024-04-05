@@ -1,0 +1,3 @@
+t
+kProperty 'sonar.jacoco.reportPath' is no longer supported. Use JaCoCo's xml report and sonar-jacoco plugin.≠ö¬‰Í1£
+ôMissing blame information for 3 files. This may lead to some features not working correctly. Please check the analysis logs and refer to <a href="https://docs.sonarqube.org/9.9/analyzing-source-code/scm-integration/" rel="noopener noreferrer" target="_blank">the documentation</a>.”¨¬‰Í1

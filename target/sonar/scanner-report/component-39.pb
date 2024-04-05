@@ -1,0 +1,1 @@
+' 2xmlXOhr%netflix-eureka-naming-service/pom.xml

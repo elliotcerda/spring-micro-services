@@ -15,12 +15,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="api-gateway" target="17" />
-      <module name="currency-conversion-service" target="17" />
-      <module name="currency-exchange-service" target="17" />
-      <module name="limit-service" target="17" />
-      <module name="netflix-eureka-naming-service" target="17" />
-      <module name="spring-cloud-config-service" target="17" />
+      <module name="api-gateway" target="11" />
+      <module name="currency-conversion-service" target="11" />
+      <module name="currency-exchange-service" target="11" />
+      <module name="limit-service" target="11" />
+      <module name="netflix-eureka-naming-service" target="11" />
+      <module name="spring-cloud-config-service" target="11" />
       <module name="spring-micro-services" target="1.5" />
     </bytecodeTargetLevel>
   </component>

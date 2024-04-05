@@ -1,0 +1,1 @@
+* 2xmlX@hr#spring-cloud-config-service/pom.xml
