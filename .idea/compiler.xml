@@ -21,6 +21,7 @@
       <module name="limit-service" target="17" />
       <module name="netflix-eureka-naming-service" target="17" />
       <module name="spring-cloud-config-service" target="17" />
+      <module name="spring-micro-services" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
