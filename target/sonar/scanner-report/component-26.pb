@@ -1,1 +1,0 @@
- 2xmlXrhr!currency-exchange-service/pom.xml

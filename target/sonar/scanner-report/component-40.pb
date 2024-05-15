@@ -1,1 +1,0 @@
-( 2javaXhränetflix-eureka-naming-service/src/main/java/com/elliot/microservices/netflixeurekanamingservice/NetflixEurekaNamingServiceApplication.java

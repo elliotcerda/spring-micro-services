@@ -1,1 +1,0 @@
- 2javaXHhrvcurrency-exchange-service/src/main/java/com/elliot/microservices/currencyexchangeservice/jpa/entity/ExchangeValue.java

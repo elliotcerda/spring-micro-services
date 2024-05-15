@@ -8,7 +8,7 @@
     <artifactId>spring-micro-services</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <name>Multi Chapter Simple Parent Project</name>
+    <name>spring-micro-services</name>
 
     <properties>
         <!-- JaCoCo -->
@@ -17,6 +17,7 @@
         <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
         <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
         <sonar.language>java</sonar.language>
+        <sonar.login></sonar.login>
     </properties>
 
     <modules>
